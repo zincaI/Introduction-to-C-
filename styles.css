@@ -1,0 +1,38 @@
+@media screen and (max-width: 700px) {
+  main {
+        background-color: #002513;
+        font:serif;
+        color:#d3d4c8;
+        font-size:15;
+    }
+}
+
+@media screen and (min-width: 700px) {
+  main {
+        background-color: #002513;
+        font:serif;
+        color:#d3d4c8;
+        font-size:20;
+    }
+}
+
+
+.display_block{
+display: block;
+}
+
+a:visited{color:#acdb83;}
+a:hoved{color:#d5db83;}
+a {
+      color: #d5d8c0; 
+      text-decoration: none; 
+    }
+
+.code_box{
+    background-color:#000d0f;
+    border-radius:10px;
+    margin:15px;
+}
+
+
+
